@@ -1,0 +1,1 @@
+<script>This is js file</script>
